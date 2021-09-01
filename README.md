@@ -6,10 +6,10 @@
     <img src="images/logo.png" alt="Logo" width="140" height="140">
   </a>
 
-  <h3 align="center">Recruit Pursuit</h3>
+  <h3 align="center">The Holy Soundboard</h3>
 
   <p align="center">
-    A website to help differently abled people find job opportunities
+    A collection of iconic phrases, by yours truly
 </p>
 
 
@@ -24,12 +24,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -41,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project started with me wanting to have a collection of iconic phrases that i say.
+This project started with me wanting to have a collection of iconic phrases that I say.
 
 ### Built With
 
@@ -51,7 +45,9 @@ This project started with me wanting to have a collection of iconic phrases that
 <!-- USAGE EXAMPLES -->
 ## Usage
 Each button represents a unique iconic phrase, narrated by yours truly
-<img src="images/1.png">
+<img src="images/1.png" height=800 align=center>
+
+
 Steps for usage:
 1. Press button.
 2. Listen.
